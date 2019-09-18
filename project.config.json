@@ -1,13 +1,25 @@
 {
-  "description": "wefs weapp project",
-  "setting": {
-    "urlCheck": true,
-    "es6": false,
-    "postcss": false,
-    "minified": false
-  },
-  "compileType": "miniprogram",
-  "appid": "wxb023785e1a7284fa",
-  "projectname": "wefs-weapp",
-  "miniprogramRoot": "./dist"
+	"description": "wefs weapp project",
+	"setting": {
+		"urlCheck": false,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true,
+		"coverView": true,
+		"autoAudits": false,
+		"checkInvalidKey": true,
+		"checkSiteMap": true,
+		"uploadWithSourceMap": true,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		}
+	},
+	"compileType": "miniprogram",
+	"appid": "wxb023785e1a7284fa",
+	"projectname": "wefs-weapp",
+	"miniprogramRoot": "dist/",
+	"condition": {}
 }
