@@ -207,6 +207,5 @@ export default class extends wepy.app {
   checkLogin () {
     return (wepy.getStorageSync('access_token') !== '')
   }
-
 }
 </script>
