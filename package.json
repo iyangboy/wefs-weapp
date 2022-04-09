@@ -18,7 +18,7 @@
   "author": "杨万里 <1091231787@qq.com>",
   "license": "MIT",
   "dependencies": {
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "promise-polyfill": "^8.1.3",
     "redux": "^3.7.2",
     "redux-actions": "^2.2.1",
